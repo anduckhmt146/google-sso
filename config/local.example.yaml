@@ -1,0 +1,7 @@
+service:
+  port: ':8080'
+
+oauth:
+  redirectURL: 'http://localhost:8080/callback'
+  clientID: 'your_client_id'
+  clientSecret: 'your_secret'
