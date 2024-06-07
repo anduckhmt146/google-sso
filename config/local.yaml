@@ -1,0 +1,7 @@
+service:
+  port: ':8080'
+
+oauth:
+  redirectURL: 'http://localhost:8080/callback'
+  clientID: '243836473198-8djq976fa79u6n75ncnh6tn9l5ekksfo.apps.googleusercontent.com'
+  clientSecret: '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'
